@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio – Venky Reddy
+# 📊 Data Analytics Portfolio – Venka Reddy
 
 Data Analyst with hands-on experience in Power BI, SQL, Python, and ETL workflows.  
 Currently working in Operations Excellence (OPEX), building real-time KPI dashboards and automated reporting systems.
