@@ -24,6 +24,8 @@ Developed an interactive Power BI dashboard to track sales performance across ci
 - Sales by fulfillment (Amazon vs Merchant)
 
 ---
+## 📸 Dashboard Preview
+![Amazon Dashboard](Amazon Dsashboard.png)
 
 ## 🔹 Key Insights
 - Bengaluru, Hyderabad, and Mumbai are top-performing cities
