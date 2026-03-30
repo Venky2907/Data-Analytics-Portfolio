@@ -30,7 +30,3 @@ Developed an interactive Power BI dashboard to track sales performance across ci
 - Majority of orders are successfully shipped
 - Amazon fulfillment contributes higher sales than merchant
 
----
-
-## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
